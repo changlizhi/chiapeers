@@ -77,4 +77,4 @@
 * chia show -a 188.134.87.135:8444
 
 
-* 对你有帮助的话求打赏：
+* 对你有帮助的话求打赏chia钱包地址：`xch1crgw4a3w3fj4rqsa93g2qvtzspzuex7x5yetjgd03dhlu0d70pgqf9xawq`
