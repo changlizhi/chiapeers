@@ -75,6 +75,7 @@ chia show -a 178.176.76.204:8444
 chia show -a 113.111.50.150:8444
 chia show -a 49.89.2.233:8444
 chia show -a 188.134.87.135:8444
+chia show -a 129.226.15.97:8444
 ```
 
 * 对你有帮助的话求打赏chia钱包地址：`xch1crgw4a3w3fj4rqsa93g2qvtzspzuex7x5yetjgd03dhlu0d70pgqf9xawq`
